@@ -1,7 +1,5 @@
+# PROM (Pro Project Management)
 A project management web application
-
-PROM (Pro Project Management)
-
 
 This is my first web application project, implemented by HTML, CSS, Javascript(Jquery). It's a single-page application.
 It can manage Epic/Stories and add different state or assignee. It can also record the percetage of this story.
